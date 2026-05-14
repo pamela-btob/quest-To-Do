@@ -1,3 +1,12 @@
+Este projeto foi criado com a intenção de jogadores de RPG(virtual ou presencial) usarem em suas aventuras para salvar suas quests e anotações gerais.
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
